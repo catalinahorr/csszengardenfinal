@@ -1,0 +1,193 @@
+body{
+	background-image: url(http://68.media.tumblr.com/62f3ce6fbf32c9177973172c2909f5d8/tumblr_ndrjttN7YD1tgoow1o1_1280.jpg);
+    background-repeat: no-repeat;
+    background-position: top; 
+    background-size: 100%;
+}
+
+h1{
+	font-family: Roboto;
+	font-size: 60px;
+	margin-left: -8px;
+	margin-right: -8px;
+	background-color: white;
+	padding-bottom: 20px;
+	margin-top: -27px;
+	padding-top: 5px;
+	text-align: right;
+	padding-right: 5%;
+	color:#A3394E;
+}
+
+
+h2{
+	text-align: right;
+	margin-left: 700px;
+	margin-top: 420px;
+	margin-right: 0%;
+	font-family: roboto;
+	font-size: 28px;
+	color: white;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	background-color: #A3394E;
+	opacity: 0.7;
+	padding-right: 5%;
+
+
+}
+
+h3{
+	font-size: 28px;
+	font-family: roboto; 
+}
+
+.summary{
+	text-align: right;
+	margin-right: 0%;
+	margin-left: 700px;
+	color: white;
+	font-family: roboto;
+	font-size: 15px;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	background-color: #A3394E;
+	opacity: 0.7;
+	padding-right: 5%;
+	margin-top: -1.75%;
+
+}
+
+
+
+.preamble {
+	margin-top: 10%;
+	margin-left: 20%;
+	margin-right: 40%;
+	font-size: 18px;
+	font-family: roboto;
+	padding-left: 20px; 
+	border-left: 2px solid #A3394E;
+    padding-left: 20px;
+}
+
+.explanation, .participation, .benefits, .requirements {
+margin-left: 20%;
+margin-right: 40%;
+font-size: 18px;
+font-family: roboto; 
+border-left: 2px solid #A3394E;
+padding-left: 20px;
+text-decoration-line: none;
+}
+
+footer{
+	margin-left: 25%;
+	padding-top: 25%;
+	background-color: #A3394E;
+	padding-right: 20px;
+	text-align: center;
+	margin-right: 45%;
+}
+
+.zen-validate-html, .zen-validate-css, .zen-license, .zen-accessibility, .zen-github{
+	text-decoration-line: none;
+	font-family: roboto;
+	color: white;
+}
+
+.design-selection {
+	margin-left: 25%;
+	padding-top: 250px;
+	font-family: roboto;
+	font-size: 10px;
+	padding-left: 20px;
+	padding-right:20px;
+	background-color: #A3394E;
+	margin-right: 45%;
+	margin-top: -20px;
+	padding-bottom: 20px;
+	color:white;
+
+}
+	
+
+.design-name {
+	padding-left: 30px;
+	background-color: #A3394E;
+	font-family: roboto;
+	font-size: 14px;
+	text-decoration-line: none;
+	color:white;
+
+}
+
+.designer-name{
+	background-color: #A3394E;
+	
+	font-family: roboto;
+	font-size: 14px;
+	text-orientation: none;
+	text-decoration-line: none;
+	color:white;
+
+
+			
+}
+
+.design-archives, .zen-resources{
+	margin-left: 25%;
+	font-family: roboto; 
+	font-size: 10px;
+	padding-left: 20px;
+	padding-right:20px;
+	background-color: #A3394E;
+	margin-right: 45%;
+	margin-top: -28px;
+	padding-bottom: 20px;
+	color:white;
+	
+}
+
+
+.viewall, .next {
+	font-family: roboto;
+	font-size: 14px;
+	padding-left: 20px;
+	padding-right:20px;
+	background-color: #A3394E;
+	margin-right: 45%;
+	color:white;
+	list-style-type: none;
+	
+	
+}
+
+.view-css, .css-resources, .zen-faq, .zen-submit, .zen-translations{
+	font-family: roboto;
+	font-size: 12px;
+	padding-left: 20px;
+	padding-right:20px;
+	background-color: #A3394E;
+	margin-right: 45%;
+	list-style-type: none;
+	color:white;
+	
+}
+
+.zen-resources{
+	padding-bottom: 200px;
+	padding-left: 20px;
+	padding-right:20px;
+	background-color: #A3394E;
+	margin-right: 45%;
+	text-decoration-style: none;
+	color:white;
+	
+    
+}
+
+
+
